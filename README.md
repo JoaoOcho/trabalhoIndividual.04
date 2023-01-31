@@ -18,5 +18,5 @@
 Já a relação de "estuda" contem a absorção do conhecimento e está relacionado com alunos e cursos
   
   <h2>Print do modelo de exemplo</h2>
-  <img width="965" height="203" src="./img/Print.PNG" alt="">
+  <img width="965" height="203" src="./Img/Print.PNG" alt="">
   

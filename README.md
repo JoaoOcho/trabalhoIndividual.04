@@ -17,3 +17,6 @@
   <p> R: Estas entidades contem relacoes com "cursa", pois tem uma relação de prestação de serviços e por isso esta relacionado à turmas e cursos.
 Já a relação de "estuda" contem a absorção do conhecimento e está relacionado com alunos e cursos
   
+  <h2>Print do modelo de exemplo</h2>
+  <img width="1577" height="602" src="./img/modeloProposto.png" alt="">
+  
